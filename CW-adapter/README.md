@@ -1,0 +1,21 @@
+# CW Resistance Tuning Board
+ 
+This directory contains the design for a board that allows you to more easily tweak resistance values for a CW Key.
+
+Subdirectories include:
+- BOM - basic BOM
+- Gerbers - this directory includes a zip file that you should be able to upload to
+            your favorite Fab house.
+- Images -3D conceptual model of the board.
+- PCBDesign - The designs are done with KiCad V6. You should be able to unzip this backup and directly use it with your tool.
+- Schematic - pdf of the schematic
+
+This particular board was designed to be easily panelized at JCLPCB. Hence, some of the file names include the word "penalized" to differentiate thise design from an earlier design that was not optimized for this process.
+
+There is absolutely no warranty here. Use this at your own risk!
+
+
+73
+Mark Hatch
+AJ6CU
+

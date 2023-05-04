@@ -1,0 +1,12 @@
+Item,Qty,Reference(s),Value,Footprint,Source,,,,,,,,,
+1,2,"J1, J2",,Connector_JST:JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical,"Purchase a ""kit""  from Amazon, eBay, AliExpress",,,,,,,,,
+,,,,,Vertical,https://www.amazon.com/gp/product/B0791DJMW10,,,,,,,,
+,,,,,Horizontal ,https://www.ebay.com/itm/292219710596,,,,,,,,
+,,,,,,,,,,,,,,
+2,1,SW1,RotaryEncoder_Switch,digikey-footprints:Rotary_Encoder_Switched_PEC11R,https://www.bourns.com/docs/Product-Datasheets/PEC11R.pdf,"Sensors, Transducers",https://www.bourns.com/docs/Product-Datasheets/PEC11R.pdf,/product-detail/en/bourns-inc/PEC11R-4215F-S0024/PEC11R-4215F-S0024-ND/4499665,ROTARY ENCODER MECHANICAL 24PPR,PEC11R-4215F-S0024-ND,Encoders,PEC11R-4215F-S0024,Bourns Inc.,Active
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,d,,,,,,,,,,,,

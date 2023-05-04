@@ -1,0 +1,4 @@
+Item,Qty,Reference(s),Value,Footprint,Source
+1,1,J1,Conn_01x02,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,
+2,10,"R1, R2, R3, R4, R5, R6, R7, R8, R9, R10",R_US,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,"Purchase a ""kit"" from Amazon, Ebay, AliExpress"
+3,10,"SW1, SW2, SW3, SW4, SW5, SW6, SW7, SW8, SW9, SW10",SW_Push_Dual,Button_Switch_THT:SW_PUSH_6mm_H4.3mm,https://www.amazon.com/gp/product/B06VY1WJ8Z/
